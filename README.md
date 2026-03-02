@@ -61,6 +61,13 @@ customers ──< loans
 ---
 
 ## 📊 Analysis Sections
+## 📂 Data Source
+
+This project uses a **synthetic banking dataset**
+created specifically for this analysis.
+Designed to simulate a realistic Indian retail
+banking environment. All data is fictional and
+created for educational purposes only.
 
 ### Section 1: Database Overview (Q1-Q2)
 - Complete database record summary
@@ -177,11 +184,11 @@ Banking-Customer-Transaction-Analysis/
 
 ## 👤 Author
 
-**[Your Name]**
-- 🎓 B.Tech AIML — [Your College Name]
+**Yanna Phani Manjunath Reddy**
+- 🎓 B.Tech AIML — VIT-AP
 - 💼 Aspiring Data Analyst
-- 🔗 LinkedIn: [Your LinkedIn URL]
-- 🐙 GitHub: [Your GitHub URL]
+- 🔗 LinkedIn: www.linkedin.com/in/phanimanjunath
+- 🐙 GitHub: https://github.com/phanimanjunath
 
 ---
 
@@ -191,4 +198,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*Built as part of my Data Analytics portfolio to demonstrate real-world SQL skills for placement preparation.*
+*Built as part of my Data Analytics portfolio
+during my B.Tech AIML — 3rd year.
+Demonstrates real-world SQL skills for
+data analyst placement preparation.*
